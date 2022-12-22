@@ -1,4 +1,4 @@
-# Relógio Digital DINÂMICO 
+# Relógio Digital (Dinâmico) 
 - HTML
 - CSS
 - JS
